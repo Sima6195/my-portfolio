@@ -204,7 +204,7 @@ function Projects() {
             <div className="project-footer">
 
               <span>
-                Municipality Services & Community Reporting
+                Municipality Services & Community Reporting.
               </span>
 
 
