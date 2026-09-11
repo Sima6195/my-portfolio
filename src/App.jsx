@@ -30,7 +30,7 @@ function ScrollToTop() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/my-portfolio">
       <ScrollToTop />
       <div className="portfolio">
         {/* ================= NAVBAR ================= */}
